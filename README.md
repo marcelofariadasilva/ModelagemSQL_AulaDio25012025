@@ -1,4 +1,5 @@
-Projeto: E-Commerce 📦🛍️
+Projeto: E-Commerce 📦
+
 Descrição
 Este projeto visa a modelagem de um banco de dados para um sistema de E-Commerce, com foco na venda de produtos. A plataforma permite a venda por terceiros, cadastra clientes e gerencia pedidos, fornecedores e estoque.
 
